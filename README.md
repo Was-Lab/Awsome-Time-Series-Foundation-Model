@@ -23,7 +23,6 @@ Please feel free to contribute this list.
 
 ## Conferences, Journals and Workshops
 - IJCAI, ACM MultiMedia, AAAI, KDD, ICDM, TKDE, TIP, TNNLS, TPAMI, TMM, Pattern Recognition, AI, Nature Communication, Nature Digital Medicine, ICPR, Sensors, Ubicomp(IMWUT Journal)
-- https://github.com/OxWearables/Oxford_Wearables_Activity_Recognition
 
 ## Datasets
 
