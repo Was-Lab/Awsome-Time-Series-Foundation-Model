@@ -44,6 +44,8 @@ Please feel free to contribute this list.
 
 - <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
+- <a name="TSPTM"></a> **[TSPTM]** A Survey on Time-Series Pre-Trained Models: A Survey (**IEEE Transactions On Knowledge And Data Engineering**) [[paper][(https://arxiv.org/abs/2305.10716)][[code](https://github.com/qianlima-lab/time-series-ptms)]
+
 ### 2018
 
 - <a name="TL4TSC"></a> **[TL4TSC]** Transfer Learning for Time Series Classification: (**2018 IEEE International Conference on Big Data**) [[paper](https://arxiv.org/pdf/1811.01533)][[code](https://github.com/hfawaz/bigdata18?tab=readme-ov-file)]
