@@ -38,11 +38,7 @@ Please feel free to contribute this list.
 
 ### Surveys & Overview
 
-- <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
-
 ### 2024
-
-- <a name="DL4SAR"></a> **[DL4SAR]** Deep Learning for Sensor-based Activity Recognition: A Survey (**Pattern Recognition Letters**) [[paper](https://arxiv.org/pdf/1707.03502.pdf)][[code](https://github.com/jindongwang)]
 
 - <a name="TSPTM"></a> **[TSPTM]** A Survey on Time-Series Pre-Trained Models: A Survey (**IEEE Transactions on Knowledge and Data Engineering**) [[paper](https://arxiv.org/abs/2305.10716)][[code](https://github.com/qianlima-lab/time-series-ptms)]
 
