@@ -57,9 +57,9 @@ large language models: (**Proc. 12th Int. Conf. Learn. Representations**)[[paper
 
 - <a name="TSDA-SASA"></a>  **[TSDA-SASA]** Time series domain adaptation via sparse associative structure alignment: (**Proc. AAAI Conf. Artif. Intell**)[[Paper](https://arxiv.org/abs/2012.11797)] [[Code](https://github.com/DMIRLAB-Group/SASA-pytorch)]
 
-- <a name="Voice2Series"></a>  **[Voice2Series]** Voice2Series: Reprogramming acoustic models for time series classification: (**Proc. 38th Int. Conf. Mach. Learn.**)[[Paper]([https://arxiv.org/pdf/2106.09296])][[Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
+- <a name="Voice2Series"></a>  **[Voice2Series]** Voice2Series: Reprogramming acoustic models for time series classification: (**Proc. 38th Int. Conf. Mach. Learn.**)[[Paper](https://arxiv.org/pdf/2106.09296)][[Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
 
-- <a name="Autoformers"></a>  **[Autoformer]** Autoformer: Decomposition transformers with autocorrelation for long-term series forecasting: (**Proc. Adv. Neural Inf. Process. Syst.**)[[Paper]([https://arxiv.org/pdf/2106.13008])][[Code](https://github.com/thuml/Autoformer)]
+- <a name="Autoformers"></a>  **[Autoformer]** Autoformer: Decomposition transformers with autocorrelation for long-term series forecasting: (**Proc. Adv. Neural Inf. Process. Syst.**)[[Paper](https://arxiv.org/pdf/2106.13008)][[Code](https://github.com/thuml/Autoformer)]
 
 ### 2020
 
