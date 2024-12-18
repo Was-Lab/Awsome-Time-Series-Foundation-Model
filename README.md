@@ -38,11 +38,11 @@ Please feel free to contribute this list.
 
 ### Surveys & Overview
 
-### 2024
-
 - <a name="TSPTM"></a> **[TSPTM]** A Survey on Time-Series Pre-Trained Models: A Survey (**IEEE Transactions on Knowledge and Data Engineering**) [[paper](https://arxiv.org/abs/2305.10716)][[code](https://github.com/qianlima-lab/time-series-ptms)]
 
-- <a name="Time-LLM"></a> **[Time-LLM]** Time-LLM: Time series forecasting by reprogramming large language models: (**12th Int. Conf. Learn. Representations**)[[paper](https://arxiv.org/pdf/2310.01728)][[code](https://github.com/KimMeen/Time-LLM)]
+### 2024
+
+- <a name="Time-LLM"></a> **[Time-LLM]** Time-LLM: Time series forecasting by reprogramming large language models: (**ICLR 2024**)[[paper](https://arxiv.org/pdf/2310.01728)][[code](https://github.com/KimMeen/Time-LLM)]
 
 - <a name="MTP-Flow"></a> **[MTP-Flow]** Masked token enabled pre-training: A task-agnostic approach for understanding complex traffic flow: (**IEEE Transactions on Mobile Computing**)[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10505023)][[code](https://github.com/Xiao-Di/TSSN)]
 
@@ -74,34 +74,22 @@ Please feel free to contribute this list.
 
 - <a name="TSDA-SASA"></a>  **[TSDA-SASA]** Time series domain adaptation via sparse associative structure alignment: (**AAAI Conf. Artif. Intell**)[[Paper](https://arxiv.org/abs/2012.11797)] [[Code](https://github.com/DMIRLAB-Group/SASA-pytorch)]
 
-- <a name="Voice2Series"></a>  **[Voice2Series]** Voice2Series: Reprogramming acoustic models for time series classification: (**38th Int. Conf. Mach. Learn.**)[[Paper](https://arxiv.org/pdf/2106.09296)][[Code](https://github.com/huckiyang/Voice2Series-Reprogramming)]
+- <a name="Autoformers"></a>  **[Autoformer]** Autoformer: Decomposition transformers with autocorrelation for long-term series forecasting: (**NeurIPS 2021**)[[Paper](https://arxiv.org/pdf/2106.13008)][[Code](https://github.com/thuml/Autoformer)]
 
-- <a name="Autoformers"></a>  **[Autoformer]** Autoformer: Decomposition transformers with autocorrelation for long-term series forecasting: (**Adv. Neural Inf. Process. Syst.**)[[Paper](https://arxiv.org/pdf/2106.13008)][[Code](https://github.com/thuml/Autoformer)]
-
-- <a name="Transformers4MTS"></a>  **[Transformers4MTS]** A transformer-based framework for multivariate time series representation learning: (**27th ACM SIGKDD Conf. Knowl. Discov. Data Mining**)[[Paper](https://arxiv.org/pdf/2010.02803)][[Code](https://github.com/gzerveas/mvts_transformer)]
+- <a name="Transformers4MTS"></a>  **[Transformers4MTS]** A transformer-based framework for multivariate time series representation learning: (**KDD 2021**)[[Paper](https://arxiv.org/pdf/2010.02803)][[Code](https://github.com/gzerveas/mvts_transformer)]
 
 - <a name="TabFormer"></a>  **[TabFormer]** Tabular transformers for modeling multivariate time series: (**ICLR 2021**)[[Paper](https://arxiv.org/pdf/2011.01843v1)][[Code](https://github.com/IBM/TabFormer)]
-
-- <a name="TERA"></a>  **[TERA]** TERA: Self-supervised learning of transformer encoder representation for speech: (**ICASSP 2021**)[[Paper](https://arxiv.org/pdf/2007.06028)][[Code](https://github.com/s3prl/s3prl)]
-
-- <a name="DenseCL"></a>  **[DenseCL]** Dense contrastive learning for self-supervised visual pre-training: (**ICCV 2021**)[[Paper](https://arxiv.org/pdf/2011.09157)][[Code](https://github.com/WXinlong/DenseCL)]
-
-- <a name="URL-TNC"></a>  **[URL-TNC]** Unsupervised representation learning for time series with temporal neighborhood coding: (**ICLR 2021**)[[Paper](https://arxiv.org/pdf/2106.00750)][[Code](https://github.com/sanatonek/TNC_representation_learning)]
 
 - <a name="Informer"></a>  **[Informer]** Informer: Beyond efficient transformer for long sequence time-series forecasting: (**AAAI 2021**)[[Paper](https://arxiv.org/pdf/2012.07436)][[Code](https://github.com/zhouhaoyi/Informer2020)]
 
 ### 2020
-
-- <a name="MSDDA-WS"></a>  **[MSDDA-WS]** Multi-source deep domain adaptation with weak supervision for time-series sensor data: (**Proc. 26th ACM SIGKDD Int. Conf. Knowl. Discov. Data Mining**)[[Paper](https://arxiv.org/pdf/2005.10996)][[Code](https://github.com/floft/codats)]
 
 - <a name="Self-Time"></a>  **[Self-Time]** Self-supervised time series representation
 learning by inter-intra relational reasoning: (**Under Review**)[[Paper](https://arxiv.org/pdf/2011.13548)][[Code](https://github.com/haoyfan/SelfTime)]
 
 ### 2019
 
-- <a name="vq-wav2vec"></a>  **[vq-wav2vec]** vq-wav2vec: Self-supervised learning of discrete speech representations: (**34th Conference on Neural Information Processing Systems**)[[Paper](https://arxiv.org/pdf/1910.05453)][[Code](https://github.com/facebookresearch/fairseq)]
-
-- <a name="BERT"></a>  **[BERT]** BERT: Pre-training of deep bidirectional transformers for language understanding:(**Proc. 2019 Conf. North Amer. Chapter Assoc. Comput. Linguistics: Hum. Lang. Technol.**)[[Paper](https://arxiv.org/pdf/1810.04805)][[Code](https://github.com/google-research/bert)]
+- <a name="BERT"></a>  **[BERT]** BERT: Pre-training of deep bidirectional transformers for language understanding:(**NAACL-HLT 2019**)[[Paper](https://arxiv.org/pdf/1810.04805)][[Code](https://github.com/google-research/bert)]
 
 - <a name="USRL-MTS"></a>  **[USRL-MTS]** Unsupervised scalable representation learning for multivariate time series: (**NeurIPS 2019**)[[Paper](https://arxiv.org/pdf/1901.10738)][[Code](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)]
 
@@ -109,12 +97,5 @@ learning by inter-intra relational reasoning: (**Under Review**)[[Paper](https:/
 
 ### 2018
 
-- <a name="TL4TSC"></a> **[TL4TSC]** Transfer Learning for Time Series Classification: (**2018 IEEE International Conference on Big Data**) [[paper](https://arxiv.org/pdf/1811.01533)][[code](https://github.com/hfawaz/bigdata18?tab=readme-ov-file)]
+- <a name="TL4TSC"></a> **[TL4TSC]** Transfer Learning for Time Series Classification: (**IEEE Big Data 2018**) [[paper](https://arxiv.org/pdf/1811.01533)][[code](https://github.com/hfawaz/bigdata18?tab=readme-ov-file)]
 
-### 2016
-
-- <a name="Audio Word2Vec"></a> **[Audio Word2Vec]** Audio Word2Vec: Unsupervised learning of audio segment representations using sequence-to-sequence autoencoder: (**IEEE International Conference on Acoustics, Speech, and Signal Processing**)[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8462332)][[code](https://github.com/jcvasquezc/DisVoice)]
-
-### 2014
-
-- <a name="Seq2Seq"></a> **[Seq2Seq]** Sequence to sequence learning with neural networks: (**Proc. Adv. Neural Inf. Process. Syst.**) [[paper](https://arxiv.org/pdf/1409.3215)][[code](https://github.com/farizrahman4u/seq2seq?tab=readme-ov-file)]
