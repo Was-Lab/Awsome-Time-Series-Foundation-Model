@@ -27,7 +27,8 @@ Please feel free to contribute this list.
 ## Datasets
 
 - Capture-24 [[**link**](https://github.com/OxWearables/capture24)]
-- [dataset.pdf](https://github.com/user-attachments/files/18184364/dataset.pdf)
+- [dataset.pdf](https://github.com/user-attachments/files/18237410/dataset.pdf)
+
 
 ## Tools
 
